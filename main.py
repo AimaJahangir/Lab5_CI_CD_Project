@@ -1,1 +1,4 @@
-print("Hello CI/CD Lab")
+def add(a, b):
+    return a + b
+
+print(add(2, 2))
